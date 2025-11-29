@@ -1,5 +1,4 @@
-# assignment2-statistics-Rassim-Tabti
-assignment2-statistics-Rassim-Tabti
+
 # Assignment 2 – Advanced Statistics  
 ### Rassim Tabti – Montpellier Business School  
 
